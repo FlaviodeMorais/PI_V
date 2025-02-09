@@ -1,4 +1,4 @@
 # Aquaponia
-Tema do PI
+Tema do PI_V
 
-Desenvolver análise de dados em escala utilizando algum conjunto de dados existentes ou capturados por IoT e aprendizagem de máquina. Preparar uma interface para visualização dos resultados - Univesp
+O tema do seu Projeto Integrador (PI) neste semestre é: : Desenvolver um software com framework web que utilize banco de dados, inclua script web (Javascript), nuvem, uso de API, acessibilidade, controle de versão e testes. Opcionalmente, incluir análise de dados. Preparar uma interface para visualização dos resultados - Univesp
